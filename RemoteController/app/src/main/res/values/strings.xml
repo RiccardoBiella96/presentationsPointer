@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Remote controller for a laptop</string>
+    <string name="open_connection">Open connection</string>
+    <string name="close_connection">Close connection</string>
+    <string name="start_discovery">Start discovery</string>
+    <string name="stop_discovery">Stop discovery</string>
+    <string name="click_left">Click left</string>
+    <string name="click_right">Click right</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connected">Connected</string>
+    <string name="searching_new_device">Searching new devices</string>
+    <string name="trying_close_connection">Trying to close the connection</string>
+    <string name="trying_open_connection">Trying to open a connection</string>
+    <string name="device_connected">Connection established</string>
+    <string name="device_not_connected">Failed to establish a connection</string>
+</resources>
